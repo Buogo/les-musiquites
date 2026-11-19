@@ -1,6 +1,6 @@
 // Service worker: deja la app instalada y funcionando sin conexión.
 // Sube el número de versión cada vez que cambien los archivos.
-const VERSION = 'lm-v2';
+const VERSION = 'lm-v3';
 const SHELL = [
   './', 'index.html', 'css/styles.css', 'manifest.webmanifest',
   'js/app.js', 'js/audio.js', 'js/exercises.js', 'js/knowledge.js', 'js/music.js', 'js/store.js', 'js/widgets.js', 'js/worklet.js',

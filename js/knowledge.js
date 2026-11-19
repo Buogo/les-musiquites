@@ -38,7 +38,10 @@ export const PHASES = [
 
 export const PENDING = [
   ['p-sesion2', 'Sesión 2: «capa de nomenclatura» en el bajo (acordes raíz–3ª–5ª y mapa de semitonos)'],
-  ['p-audio', 'Análisis de audio de los dos temas de la banda con Claude (afinación de voz y timing del bajo)'],
+  ['p-audio', 'Análisis de audio: primer tema listo, falta el segundo (afinación de voz y timing del bajo)'],
+  ['p-interfaz', 'Contarle a Claude el modelo de la interfaz y si practicas en el teléfono o en el computador'],
+  ['p-presion', 'Probar la prueba de presión en el bajo, antes y después de la calibración'],
+  ['p-toma-cable', 'Grabar una toma por cable con clic para medir el timing'],
   ['p-refs', 'Decirle a Claude tus bandas o canciones de referencia'],
   ['p-afinacion', 'Confirmar la afinación del bajo y la guitarra (la app asume estándar)'],
   ['p-letras', 'Aclarar quién compone las letras en la banda'],
